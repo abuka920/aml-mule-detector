@@ -1,5 +1,7 @@
 # AML Money Mule Network Detector
 
+**Live demo:** https://kalif-aml-detector.streamlit.app
+
 A graph-based Anti-Money Laundering detection system that identifies mule account rings and structuring (smurfing) behaviour in synthetic banking transaction data, aligned with Canadian **FINTRAC** regulations.
 
 ## What It Detects
